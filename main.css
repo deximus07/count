@@ -1,7 +1,8 @@
 body {
     width: 100%;
-    background-color: grey;
+    background-color: black;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
 }
 
 h1 {
@@ -10,5 +11,5 @@ h1 {
 
 img {
     text-align: center;
-    margin-left: 450px;
+    margin-left: 550px;
 }
